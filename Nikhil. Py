@@ -1,0 +1,4 @@
+str = "Nikhil Kharade"
+ch = str[-1:-2]
+
+print(ch)
